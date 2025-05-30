@@ -17,7 +17,7 @@ public class Book {
         return author;
     }
 
-    public void setTitle(String Title) {
+    public void setTitle(String title) {
         this.title = title;
     }
 
