@@ -30,8 +30,6 @@ public class Librarian {
         return results;
     }
 
-
-
     public void registerBook(String title, String author) {
         Book book = new Book(title, author);
         this.booklist.add(book);
